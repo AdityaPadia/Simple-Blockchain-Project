@@ -1,4 +1,4 @@
-# Simple-Blockchain-Project
+# Simple Blockchain Project
 
 ## Created a Simple Blockchain Project
 
